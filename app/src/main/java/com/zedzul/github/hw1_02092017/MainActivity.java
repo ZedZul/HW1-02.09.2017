@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG_GOOD, MSG_ALL_RIGHT);
         //update master
         //some feature added
+        //emulate rebase 2
     }
 
     public void someFileWriter(){
