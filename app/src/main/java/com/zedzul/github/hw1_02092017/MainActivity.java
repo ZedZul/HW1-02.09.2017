@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //some changes
         Log.d(TAG_GOOD, MSG_ALL_RIGHT);
+        //some feature added
     }
 
     public void someFileWriter(){
