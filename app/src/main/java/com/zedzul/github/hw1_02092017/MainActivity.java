@@ -11,11 +11,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void someFileReader(){
-        //bad realisation
+    public void someFileWriter(){
+        //good realisation
     }
 
-    public void someFileWriter(){
+    public void someFileReader(){
         //good realisation
     }
 }
